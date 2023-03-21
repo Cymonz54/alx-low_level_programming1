@@ -1,7 +1,9 @@
 #include "main.h"
  /**
-  * main - print _putchar
-  * Return: 0
+  * main - Entry point
+  * Description: This function prints
+  * "_putchar" word followed by a new line
+  * Return: Always 0
   */
 
 int main(void)
