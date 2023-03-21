@@ -21,16 +21,11 @@ void jack_baver(void)
 					for (d = 0; d <= 2; d++)
 					{
 						_putchar(a + '0');
-						_
-putchar(b + '0');
-						_
-putchar(58);
-						_
-putchar(c + '0');
-						_
-putchar(d + '0');
-						_
-putchar('\n');
+						_putchar(b + '0');
+						_putchar(58);
+						_putchar(c + '0');
+						_putchar(d + '0');
+						_putchar('\n');
 					}
 				}
 			}
