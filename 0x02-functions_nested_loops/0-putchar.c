@@ -1,12 +1,12 @@
 #include "main.h"
 
- /**
-  * main - Entry point
-  * Prints "_putchar", followed by a new line
-  * Return: Always 0 (Success)
-  */
+/**
+ * main - print _putchar
+ * is written by bwave
+ * Return: Always 0 (Success)
+ */
 
-int main(void)
+void main(void)
 
 {
 	_putchar('_');
